@@ -1,0 +1,9 @@
+<figure class="image">
+    {% case site.baseurl %}
+    {% when '/~hanhu' %}
+    <img src="/~hanhu{{ include.url }}" alt="{{ include.description }}">
+    {% else %}
+    <img src="{{ include.url }}" alt="{{ include.description }}">
+    {% endcase %}
+    <figcaption>{{ include.description }}</figcaption>
+</figure>
