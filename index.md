@@ -8,6 +8,6 @@ Here is a blog archive of my oshimen in N46, S46 and H46.
 Special thanks to <a href="https://github.com/janelin612/n46-crawler" style="color: white">@janelin612.
 
 # Oshimen List
-[守屋麗奈](huhanwj.github.io/s46-oshimen-blog-archive/moriya.rena)
+[守屋麗奈](https://huhanwj.github.io/s46-oshimen-blog-archive/moriya.rena)
 
 
