@@ -66,7 +66,7 @@ var app = new Vue({
     try {
       this.member = await (await fetch('./member.json')).json();
       if ('name' in this.member) {
-        document.title = `${this.member.name} | 乃木坂46卒業メンバーのブログ`;
+        document.title = `${this.member.name} | ブログアーカイブ`;
       }
     } catch (error) {
       console.warn(error);
