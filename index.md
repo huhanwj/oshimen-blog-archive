@@ -13,4 +13,7 @@ Special thanks to <a href="https://github.com/janelin612/n46-crawler">@janelin61
 * [小池美波](https://huhanwj.github.io/oshimen-blog-archive/mb/koike.minami)
 * [渡邉理佐](https://huhanwj.github.io/oshimen-blog-archive/mb/watanabe.risa)
 
+## 日向坂46
+* [佐々木美玲](https://huhanwj.github.io/oshimen-blog-archive/mb/sasaki.mirei)
+
 
