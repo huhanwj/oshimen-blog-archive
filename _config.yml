@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Sakurazaka 46 oshimen's blog archive
+title: Sakamichi group oshiteru members' blog archive
 locale: zh_CN
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Hugo/Han Hu
+  name: #Hugo/Han Hu
   avatar: #bio-photo.jpg
   bio: ""
   email: huhanwj@gmail.com
